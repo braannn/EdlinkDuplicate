@@ -1,0 +1,6 @@
+framework module Pods_EdlinkDuplicate_EdlinkDuplicateUITests {
+  umbrella header "Pods-EdlinkDuplicate-EdlinkDuplicateUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
